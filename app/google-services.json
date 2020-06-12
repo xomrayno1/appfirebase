@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "19958243722",
+    "firebase_url": "https://fire-c81b1.firebaseio.com",
+    "project_id": "fire-c81b1",
+    "storage_bucket": "fire-c81b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19958243722:android:613a91c0ea00e8cc6b6873",
+        "android_client_info": {
+          "package_name": "com.tampro.fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19958243722-5jocthkes9bnle1ag7v2r7tvqq9qfsbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd4HLhuqLaBeu3IgGPBFie9suXVVY-p3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19958243722-5jocthkes9bnle1ag7v2r7tvqq9qfsbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
